@@ -16,4 +16,4 @@
 
     외우기 힘든 IP 주소를 google.com 처럼 기억하기 쉽게 만들어주는 `네트워크 호스트 이름`을 말한다.
 
-    <img src= "../IMG/domain_url.png" width="400px"></img>
+<img src= "../IMG/domain_url.png" width="400px"></img>
