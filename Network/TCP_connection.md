@@ -25,7 +25,7 @@
 
 > 3-웨이 핸드셰이킹(3-Way Handshaking)
 
-<img src= "../IMG/3-way.png" width="500px"></img>
+<img src= "../IMG/3-way.png" width="600px"></img>
 
     1.  1단계
 
